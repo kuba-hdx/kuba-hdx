@@ -1,16 +1,41 @@
-## Hi there 👋
+# Kuba
 
-<!--
-**kuba-hdx/kuba-hdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Self-taught. Security-minded. Always building.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+- CompTIA Security+
+- CompTIA PenTest+
+- CompTIA A+
+
+---
+
+## What I'm Building
+
+- Crypto & finance tools
+- Personal portfolio
+- Security scripts & utilities
+
+---
+
+## Stack
+
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+
+---
+
+## About
+
+No formal background. No shortcuts.
+Just curiosity, certifications earned the hard way, and a habit of figuring things out.
+
+Currently somewhere between breaking things and building them.
+
+---
+
+*— Kuba*
