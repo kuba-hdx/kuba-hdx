@@ -26,6 +26,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
 
 ---
 
