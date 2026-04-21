@@ -38,7 +38,7 @@ Based in the US/CANADA
 Freelance security engineering, tool building, and recon automation work.
 
 Email: contact@kuba-hdx.dev
-Live Site: (www.kuba-hdx.dev)
+Live Site: www.kuba-hdx.dev
 
 
 ---
