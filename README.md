@@ -37,7 +37,7 @@ Based in the US/CANADA
 ## Contact me ![For Hire](https://img.shields.io/badge/%20FOR%20HIRE-black)
 Freelance security engineering, tool building, and recon automation work.
 
-Email: contact@kubahdx.dev (soon!)
+Email: contact@kuba-hdx.dev
 
 
 ---
