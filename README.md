@@ -12,13 +12,10 @@
 
 ---
 
-## What I'm Building
-
-- Crypto & finance tools
-- Personal portfolio
-- Security scripts & utilities
-
----
+## Now
+- Grinding PortSwigger Web Security Academy
+- Working towards cybersecurity dreams
+- Shipping small tools for offensive security workflows
 
 ## Stack
 
@@ -35,7 +32,13 @@
 No formal background. No shortcuts.
 Just curiosity, certifications earned the hard way, and a habit of figuring things out.
 
-Currently somewhere between breaking things and building them.
+Currently somewhere between breaking things and building them. 
+Based in the US/CANADA 
+## Contact me ![For Hire](https://img.shields.io/badge/%20FOR%20HIRE-black)
+Freelance security engineering, tool building, and recon automation work.
+
+Email: contact@kubahdx.dev (soon!)
+
 
 ---
 
