@@ -4,14 +4,6 @@
 
 ---
 
-## Certifications
-
-- CompTIA Security+
-- CompTIA PenTest+
-- CompTIA A+
-
----
-
 ## Now
 - Grinding PortSwigger Web Security Academy
 - Working towards cybersecurity dreams
