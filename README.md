@@ -6,7 +6,7 @@
 
 ## Now
 - Grinding PortSwigger Web Security Academy
-- Working towards goals.. (ARMY-17C>PAID-COLLEGE>MASTERS-DEGREE>CYBERSECURITY/AI-ENGINEER)
+- Working towards goals..
 - Shipping small tools for offensive security workflows/automation
 
 ## Stack
