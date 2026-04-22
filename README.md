@@ -39,7 +39,7 @@ Freelance security engineering, tool building, and recon automation work.
 
 Email: contact@kuba-hdx.dev
 
-Live Site: https://kuba-hdx.dev
+Website: https://kuba-hdx.dev
 
 
 ---
