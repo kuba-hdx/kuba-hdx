@@ -26,7 +26,7 @@ Just curiosity, certifications earned the hard way, and a habit of figuring thin
 
 Currently somewhere between breaking things and building them. 
 Based in the US/CANADA 
-## Contact me ![For Hire](https://img.shields.io/badge/%20FOR%20HIRE-black)
+## Contact me 
 Freelance security engineering, tool building, and recon automation work.
 
 Email: contact@kuba-hdx.dev
