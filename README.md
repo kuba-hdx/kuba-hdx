@@ -25,7 +25,6 @@ No formal background. No shortcuts.
 Just curiosity, certifications earned the hard way, and a habit of figuring things out.
 
 Currently somewhere between breaking things and building them. 
-Based in the US/CANADA 
 ## Contact me 
 Freelance security engineering, tool building, and recon automation work.
 
